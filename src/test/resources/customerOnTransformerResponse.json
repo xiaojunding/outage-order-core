@@ -1,0 +1,85 @@
+{
+    "StatusCode": 200,
+    "Message": "",
+    "HasError": false,
+    "Data": {
+        "size": 5,
+        "accounts": [
+            {
+                "active": "true",
+                "status": "02",
+                "billAccount": "6376702170",
+                "phone": "3143395138",
+                "registeredAlert": "false",
+                "transformer": "02070260007",
+                "premiseServiceMeterPoint": "63767020124990431001",
+                "streetNumber": "7464",
+                "premise": "637670201",
+                "address": "7464 ESTERBROOK DR",
+                "city": "SAINT LOUIS",
+                "state": "MO",
+                "operatingCenter": "GER"
+            },
+            {
+                "active": "true",
+                "status": "02",
+                "billAccount": "1376702246",
+                "phone": "3147836155",
+                "registeredAlert": "false",
+                "transformer": "02070260007",
+                "premiseServiceMeterPoint": "13767020197227374001",
+                "streetNumber": "7448",
+                "premise": "137670201",
+                "address": "7448 ESTERBROOK DR",
+                "city": "SAINT LOUIS",
+                "state": "MO",
+                "operatingCenter": "GER"
+            },
+            {
+                "active": "true",
+                "status": "02",
+                "billAccount": "4376702127",
+                "phone": "3142623705",
+                "registeredAlert": "false",
+                "transformer": "02070260007",
+                "premiseServiceMeterPoint": "43767020194890432001",
+                "streetNumber": "7456",
+                "premise": "437670201",
+                "address": "7456 ESTERBROOK DR",
+                "city": "SAINT LOUIS",
+                "state": "MO",
+                "operatingCenter": "GER"
+            },
+            {
+                "active": "true",
+                "status": "02",
+                "billAccount": "4276702110",
+                "phone": "3143830736",
+                "registeredAlert": "false",
+                "transformer": "02070260007",
+                "premiseServiceMeterPoint": "42767020144490435001",
+                "streetNumber": "7432",
+                "premise": "427670201",
+                "address": "7432 ESTERBROOK DR",
+                "city": "SAINT LOUIS",
+                "state": "MO",
+                "operatingCenter": "GER"
+            },
+            {
+                "active": "true",
+                "status": "02",
+                "billAccount": "5376702117",
+                "phone": "3143813259",
+                "registeredAlert": "false",
+                "transformer": "02070260007",
+                "premiseServiceMeterPoint": "53767020114990432001",
+                "streetNumber": "7460",
+                "premise": "537670201",
+                "address": "7460 ESTERBROOK DR",
+                "city": "SAINT LOUIS",
+                "state": "MO",
+                "operatingCenter": "GER"
+            }
+        ]
+    }
+}

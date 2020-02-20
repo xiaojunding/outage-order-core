@@ -1,0 +1,14 @@
+{
+	"notificationType": "ESRT",
+	"state": "IL",
+	"order": {
+		"orderNumber": 123123,
+		"outageSize": 10,
+		"outageStatus": null,
+		"causeCodeDescription": "weather",
+		"outageStartDate": "2019-05-10T10:00:00",
+		"esrt": "2019-05-10T13:00:00.0-05",
+		"crewStatus": "DISPATCHED",
+		"causeCode": "CC"
+	}
+}

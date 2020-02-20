@@ -1,0 +1,29 @@
+{
+    "notificationType": "PPO",
+    "order": {
+        "metadata": {
+            "orderDetailId": 3
+        },
+        "orderNumber": "5929481",
+        "outageStartDate": 1566992985000,
+        "outageSize": 1,
+        "outageStatus": "Order has been received",
+        "causeCode": "UN",
+        "causeCodeDescription": "Currently assessing",
+        "esrt": 1567623600000,
+        "crewStatus": null,
+        "operatingCenter": "DOR",
+        "communicateToOC": true,
+        "communicateAutoEsrt": true,
+        "autoEsrt": false,
+        "premiseNumber": null,
+        "transformers": [],
+        "ppoPublished": false,
+        "restorationPublished": false
+    },
+    "state": "MO",
+    "transformerList": [
+        "02518280007"
+    ],
+    "premiseNumber": null
+}

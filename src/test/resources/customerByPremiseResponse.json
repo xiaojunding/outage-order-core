@@ -1,0 +1,22 @@
+{
+    "StatusCode": 200,
+    "Message": "",
+    "HasError": false,
+    "Data": {
+        "size": 1,
+        "accounts": [
+            {
+                "active": "true",
+                "status": "02",
+                "billAccount": "4104513293",
+                "phone": "2177352759",
+                "transformer": "32010705007",
+                "premise": "413722934",
+                "address": "720 OKLAHOMA AVE",
+                "city": "LINCOLN",
+                "state": "IL",
+                "operatingCenter": "LIC"
+            }
+        ]
+    }
+}
